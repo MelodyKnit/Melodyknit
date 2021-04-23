@@ -1,6 +1,8 @@
 <h1 align="center"> Hi there 👋 Wecome to my Github</h1>
 <div align="center">
 <b>
+
+<img src="./images/left.png">
 I love programming and want to learn more.
 </b>
 <img src="https://avatars.githubusercontent.com/u/50488999?v=4" width="100">
