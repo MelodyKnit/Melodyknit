@@ -2,10 +2,10 @@
 <div align="center">
 <b>
 
-<img src="./images/left.png">
+<img src="./images/left.png" width="100">
 I love programming and want to learn more.
 </b>
-<img src="https://avatars.githubusercontent.com/u/50488999?v=4" width="100">
+<img src="./images/logo.png" width="100">
 <hr>
 </div>
 <div align="center">
