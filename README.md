@@ -8,7 +8,7 @@
 <img src="./images/logo.png" width="120">
 </a>
 
-**I love programming and want to learn more.**
+**🔥I love programming and want to learn more.💕**
 
 <a href="https://github.com/Melodyknit">
 <img src="./images/left.png" width="120">
